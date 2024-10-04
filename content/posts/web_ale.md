@@ -15,14 +15,12 @@ Este es un parrafo de ejemplo con algunas formateaciones de texto:
 - *como*
 - estamos
 
-Aqui tienes un trozo de codigo en Python:
 
-python
-# Este es un trozo de codigo en Python
+
+```python
 def hola_mundo():
     print("Hola, mundo!")
-
-
+```
 
 ### Lista ordenada
 1.Primer articulo
