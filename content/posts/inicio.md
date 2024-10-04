@@ -17,4 +17,4 @@ En esta pagina puedes encontrar:
 - [Contacto](/posts/contacto)
 
 
-![Imagen de ejemplo](/images.jpeg)
+![Imagen](/images.jpeg)
