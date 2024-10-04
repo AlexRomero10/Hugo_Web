@@ -7,9 +7,7 @@ tags: ["post", "blog"]
 
 # Bienvenidos
 
-Bienvenidos a mi pagina web
-
-En esta pagina puedes encontrar:
+Bienvenidos a mi pagina web. En mi pagina web puedes encontrar:
 
 - [Home](http://localhost:1313/)
 - [Inicio](/posts/inicio/)
